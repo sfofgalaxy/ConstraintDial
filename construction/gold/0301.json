@@ -1,0 +1,8 @@
+{
+  "family_id": "0301",
+  "parent_task": "4000-0301-case",
+  "files": ["SettlementVault.sol"],
+  "contracts": ["SettlementVault"],
+  "functions": ["withdraw", "advancePeriod"],
+  "paper": "leave [TBD]"
+}

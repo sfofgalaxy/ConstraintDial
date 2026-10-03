@@ -1,0 +1,15 @@
+{
+  "family_id": "0173",
+  "parent_task": "4000-0173-case",
+  "files": [
+    "SettlementModule.sol"
+  ],
+  "contracts": [
+    "SettlementModule"
+  ],
+  "functions": [
+    "claimFor"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

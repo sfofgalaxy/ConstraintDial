@@ -1,0 +1,14 @@
+{
+  "family_id": "0318",
+  "parent_task": "4000-0318-case",
+  "files": [
+    "FlashLender.sol"
+  ],
+  "contracts": [
+    "FlashLender"
+  ],
+  "functions": [
+    "flashLoanSimple"
+  ],
+  "paper": "leave [TBD]"
+}

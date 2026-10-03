@@ -1,0 +1,14 @@
+{
+  "family_id": "0995",
+  "parent_task": "4000-0995-case",
+  "files": [
+    "BalancedPool.sol"
+  ],
+  "contracts": [
+    "BalancedPool"
+  ],
+  "functions": [
+    "swap"
+  ],
+  "paper": "leave [TBD]"
+}

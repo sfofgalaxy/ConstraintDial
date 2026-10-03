@@ -1,0 +1,16 @@
+{
+  "family_id": "0351",
+  "parent_task": "4000-0351-case",
+  "files": [
+    "LiquidityVault.sol",
+    "YieldPool.sol"
+  ],
+  "contracts": [
+    "LiquidityVault",
+    "YieldPool"
+  ],
+  "functions": [
+    "flashLoan"
+  ],
+  "paper": "leave [TBD]"
+}

@@ -1,0 +1,14 @@
+{
+  "family_id": "0785",
+  "parent_task": "4000-0785-case",
+  "files": [
+    "LiquidityVault.sol"
+  ],
+  "contracts": [
+    "LiquidityVault"
+  ],
+  "functions": [
+    "flashLoan"
+  ],
+  "paper": "leave [TBD]"
+}

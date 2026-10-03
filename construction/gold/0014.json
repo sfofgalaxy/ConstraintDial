@@ -1,0 +1,15 @@
+{
+  "family_id": "0014",
+  "parent_task": "4000-0014-case",
+  "files": [
+    "LedgerToken.sol"
+  ],
+  "contracts": [
+    "LedgerToken"
+  ],
+  "functions": [
+    "mint"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

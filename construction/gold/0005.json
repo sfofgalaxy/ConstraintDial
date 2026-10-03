@@ -1,0 +1,16 @@
+{
+  "family_id": "0005",
+  "parent_task": "4000-0005-case",
+  "files": [
+    "LiquidityPair.sol"
+  ],
+  "contracts": [
+    "LiquidityPair"
+  ],
+  "functions": [
+    "getReserves",
+    "swap"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

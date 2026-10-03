@@ -1,0 +1,19 @@
+{
+  "family_id": "0180",
+  "parent_task": "4000-0180-case",
+  "files": [
+    "LendingPool.sol",
+    "BorrowDesk.sol"
+  ],
+  "contracts": [
+    "LendingPool",
+    "BorrowDesk"
+  ],
+  "functions": [
+    "borrowFor",
+    "liquidate",
+    "openPosition"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

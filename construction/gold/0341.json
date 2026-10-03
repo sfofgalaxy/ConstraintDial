@@ -1,0 +1,14 @@
+{
+  "family_id": "0341",
+  "parent_task": "4000-0341-case",
+  "files": [
+    "StakingPool.sol"
+  ],
+  "contracts": [
+    "StakingPool"
+  ],
+  "functions": [
+    "settle"
+  ],
+  "paper": "leave [TBD]"
+}

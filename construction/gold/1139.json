@@ -1,0 +1,14 @@
+{
+  "family_id": "1139",
+  "parent_task": "4000-1139-case",
+  "files": [
+    "EmissionPool.sol"
+  ],
+  "contracts": [
+    "EmissionPool"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

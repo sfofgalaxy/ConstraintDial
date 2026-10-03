@@ -1,0 +1,15 @@
+{
+  "family_id": "0323",
+  "parent_task": "4000-0323-case",
+  "files": [
+    "MarketBase.sol"
+  ],
+  "contracts": [
+    "TokenMarket",
+    "NativeMarket"
+  ],
+  "functions": [
+    "borrow"
+  ],
+  "paper": "leave [TBD]"
+}

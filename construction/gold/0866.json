@@ -1,0 +1,14 @@
+{
+  "family_id": "0866",
+  "parent_task": "4000-0866-case",
+  "files": [
+    "CoveredVaultHub.sol"
+  ],
+  "contracts": [
+    "CoveredVaultHub"
+  ],
+  "functions": [
+    "claim"
+  ],
+  "paper": "leave [TBD]"
+}

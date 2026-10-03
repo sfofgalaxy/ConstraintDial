@@ -1,0 +1,14 @@
+{
+  "family_id": "1146",
+  "parent_task": "4000-1146-case",
+  "files": [
+    "LiquidityVault.sol"
+  ],
+  "contracts": [
+    "LiquidityVault"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

@@ -1,0 +1,19 @@
+{
+  "family_id": "0024",
+  "parent_task": "4000-0024-case",
+  "files": [
+    "ERC20Base.sol",
+    "BridgeRelay.sol"
+  ],
+  "contracts": [
+    "BridgeRelay",
+    "StableToken"
+  ],
+  "functions": [
+    "transferFrom",
+    "completeTransfer",
+    "swap"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

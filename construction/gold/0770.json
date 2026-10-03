@@ -1,0 +1,14 @@
+{
+  "family_id": "0770",
+  "parent_task": "4000-0770-case",
+  "files": [
+    "OptionToken.sol"
+  ],
+  "contracts": [
+    "OptionToken"
+  ],
+  "functions": [
+    "settle"
+  ],
+  "paper": "leave [TBD]"
+}

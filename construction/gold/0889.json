@@ -1,0 +1,14 @@
+{
+  "family_id": "0889",
+  "parent_task": "4000-0889-case",
+  "files": [
+    "MarketEngine.sol"
+  ],
+  "contracts": [
+    "MarketEngine"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

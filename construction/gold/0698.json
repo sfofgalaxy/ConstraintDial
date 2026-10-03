@@ -1,0 +1,19 @@
+{
+  "family_id": "0698",
+  "parent_task": "4000-0698-case",
+  "files": [
+    "CollateralToken.sol",
+    "LendingHub.sol"
+  ],
+  "contracts": [
+    "CollateralToken",
+    "LendingHub"
+  ],
+  "functions": [
+    "allocateToReserves",
+    "requireSolvent",
+    "liquidate"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

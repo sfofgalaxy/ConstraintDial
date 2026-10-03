@@ -1,0 +1,14 @@
+{
+  "family_id": "0589",
+  "parent_task": "4000-0589-case",
+  "files": [
+    "FixedPayoutSeller.sol"
+  ],
+  "contracts": [
+    "FixedPayoutSeller"
+  ],
+  "functions": [
+    "swap"
+  ],
+  "paper": "leave [TBD]"
+}

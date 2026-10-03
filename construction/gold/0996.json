@@ -1,0 +1,14 @@
+{
+  "family_id": "0996",
+  "parent_task": "4000-0996-case",
+  "files": [
+    "ShareVault.sol"
+  ],
+  "contracts": [
+    "ShareVault"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

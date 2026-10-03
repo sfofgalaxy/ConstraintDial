@@ -1,0 +1,15 @@
+{
+  "family_id": "0018",
+  "parent_task": "4000-0018-case",
+  "files": [
+    "StakingVault.sol"
+  ],
+  "contracts": [
+    "StakingVault"
+  ],
+  "functions": [
+    "configureAsset"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

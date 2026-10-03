@@ -1,0 +1,14 @@
+{
+  "family_id": "0780",
+  "parent_task": "4000-0780-case",
+  "files": [
+    "CollateralBook.sol"
+  ],
+  "contracts": [
+    "CollateralBook"
+  ],
+  "functions": [
+    "deposit"
+  ],
+  "paper": "leave [TBD]"
+}

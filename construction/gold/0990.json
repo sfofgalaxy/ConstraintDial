@@ -1,0 +1,14 @@
+{
+  "family_id": "0990",
+  "parent_task": "4000-0990-case",
+  "files": ["RewardVault.sol"],
+  "contracts": ["RewardVault"],
+  "functions": ["deposit", "withdraw"],
+  "compile": {
+    "files": ["RewardVault.sol"],
+    "wanted": ["RewardVault"],
+    "artifact": "RewardVault.json"
+  },
+  "honest": "0990_eq",
+  "paper": "leave [TBD]"
+}

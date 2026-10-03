@@ -1,0 +1,15 @@
+{
+  "family_id": "0008",
+  "parent_task": "4000-0008-case",
+  "files": [
+    "ProductBoard.sol"
+  ],
+  "contracts": [
+    "ProductBoard"
+  ],
+  "functions": [
+    "newProduct"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

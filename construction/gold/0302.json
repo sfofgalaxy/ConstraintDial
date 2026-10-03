@@ -1,0 +1,14 @@
+{
+  "family_id": "0302",
+  "parent_task": "4000-0302-case",
+  "files": ["SettlementPayroll.sol"],
+  "contracts": ["SettlementPayroll"],
+  "functions": ["setReceiver", "releasePayout"],
+  "compile": {
+    "files": ["SettlementInterfaces.sol", "SettlementPayroll.sol"],
+    "wanted": ["SettlementPayroll"],
+    "artifact": "SettlementPayroll.json"
+  },
+  "honest": "0302_eq",
+  "paper": "leave [TBD]"
+}

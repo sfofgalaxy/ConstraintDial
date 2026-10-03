@@ -1,0 +1,14 @@
+{
+  "family_id": "1013",
+  "parent_task": "4000-1013-case",
+  "files": [
+    "ConversionVault.sol"
+  ],
+  "contracts": [
+    "ConversionVault"
+  ],
+  "functions": [
+    "redeem"
+  ],
+  "paper": "leave [TBD]"
+}

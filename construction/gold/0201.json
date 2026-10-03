@@ -1,0 +1,19 @@
+{
+  "family_id": "0201",
+  "parent_task": "4000-0201-case",
+  "files": [
+    "ConstantProductPool.sol",
+    "LiquidityFacet.sol"
+  ],
+  "contracts": [
+    "ConstantProductPool",
+    "LiquidityFacet"
+  ],
+  "functions": [
+    "pool__execute",
+    "removeLiquidity",
+    "addLiquidity"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

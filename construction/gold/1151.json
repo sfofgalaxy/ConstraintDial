@@ -1,0 +1,14 @@
+{
+  "family_id": "1151",
+  "parent_task": "4000-1151-case",
+  "files": [
+    "ArtMarket.sol"
+  ],
+  "contracts": [
+    "ArtMarket"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

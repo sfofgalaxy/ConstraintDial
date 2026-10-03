@@ -1,0 +1,14 @@
+{
+  "family_id": "0126",
+  "parent_task": "4000-0126-case",
+  "files": [
+    "CustodyVault.sol"
+  ],
+  "contracts": [
+    "CustodyVault"
+  ],
+  "functions": [
+    "redeem"
+  ],
+  "paper": "leave [TBD]"
+}

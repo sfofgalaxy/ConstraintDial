@@ -1,0 +1,19 @@
+{
+  "family_id": "0039",
+  "parent_task": "4000-0039-case",
+  "files": [
+    "RewardIndex.sol",
+    "ParcelToken.sol"
+  ],
+  "contracts": [
+    "RewardIndex",
+    "ParcelToken"
+  ],
+  "functions": [
+    "totalEntitledUnits",
+    "isIssuer",
+    "isPauser"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

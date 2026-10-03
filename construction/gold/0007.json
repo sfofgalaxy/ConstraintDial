@@ -1,0 +1,15 @@
+{
+  "family_id": "0007",
+  "parent_task": "4000-0007-case",
+  "files": [
+    "Staking.sol"
+  ],
+  "contracts": [
+    "StakingLogic"
+  ],
+  "functions": [
+    "claimReward"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

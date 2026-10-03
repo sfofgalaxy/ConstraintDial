@@ -1,0 +1,14 @@
+{
+  "family_id": "0882",
+  "parent_task": "4000-0882-case",
+  "files": [
+    "YieldSource.sol"
+  ],
+  "contracts": [
+    "YieldSource"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

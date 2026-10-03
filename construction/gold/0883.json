@@ -1,0 +1,14 @@
+{
+  "family_id": "0883",
+  "parent_task": "4000-0883-case",
+  "files": [
+    "SavingsPool.sol"
+  ],
+  "contracts": [
+    "SavingsPool"
+  ],
+  "functions": [
+    "redeem"
+  ],
+  "paper": "leave [TBD]"
+}

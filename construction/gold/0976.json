@@ -1,0 +1,14 @@
+{
+  "family_id": "0976",
+  "parent_task": "4000-0976-case",
+  "files": [
+    "SettlementRouter.sol"
+  ],
+  "contracts": [
+    "SettlementRouter"
+  ],
+  "functions": [
+    "settle"
+  ],
+  "paper": "leave [TBD]"
+}

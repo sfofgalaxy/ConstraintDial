@@ -1,0 +1,14 @@
+{
+  "family_id": "0704",
+  "parent_task": "4000-0704-case",
+  "files": [
+    "LiquidityPair.sol"
+  ],
+  "contracts": [
+    "LiquidityPair"
+  ],
+  "functions": [
+    "swap"
+  ],
+  "paper": "leave [TBD]"
+}

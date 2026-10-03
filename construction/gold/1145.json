@@ -1,0 +1,14 @@
+{
+  "family_id": "1145",
+  "parent_task": "4000-1145-case",
+  "files": [
+    "ReservePool.sol"
+  ],
+  "contracts": [
+    "ReservePool"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

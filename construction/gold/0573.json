@@ -1,0 +1,14 @@
+{
+  "family_id": "0573",
+  "parent_task": "4000-0573-case",
+  "files": [
+    "LoanVault.sol"
+  ],
+  "contracts": [
+    "LoanVault"
+  ],
+  "functions": [
+    "flashLoan"
+  ],
+  "paper": "leave [TBD]"
+}

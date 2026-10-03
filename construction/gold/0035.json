@@ -1,0 +1,15 @@
+{
+  "family_id": "0035",
+  "parent_task": "4000-0035-case",
+  "files": [
+    "SwapPair.sol"
+  ],
+  "contracts": [
+    "SwapPair"
+  ],
+  "functions": [
+    "swap"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

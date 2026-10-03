@@ -1,0 +1,14 @@
+{
+  "family_id": "1070",
+  "parent_task": "4000-1070-case",
+  "files": [
+    "Protocol.sol"
+  ],
+  "contracts": [
+    "LiquidityVault"
+  ],
+  "functions": [
+    "borrow"
+  ],
+  "paper": "leave [TBD]"
+}

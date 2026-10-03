@@ -1,0 +1,15 @@
+{
+  "family_id": "0417",
+  "parent_task": "4000-0417-case",
+  "files": [
+    "SpotFlashPair.sol"
+  ],
+  "contracts": [
+    "SpotFlashPair"
+  ],
+  "functions": [
+    "onFlash"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

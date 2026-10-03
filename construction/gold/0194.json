@@ -1,0 +1,18 @@
+{
+  "family_id": "0194",
+  "parent_task": "4000-0194-case",
+  "files": [
+    "RangePool.sol",
+    "WrappedItem.sol"
+  ],
+  "contracts": [
+    "RangePool",
+    "WrappedItem"
+  ],
+  "functions": [
+    "swap",
+    "deposit"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

@@ -1,0 +1,14 @@
+{
+  "family_id": "1067",
+  "parent_task": "4000-1067-case",
+  "files": [
+    "CreditBook.sol"
+  ],
+  "contracts": [
+    "CreditBook"
+  ],
+  "functions": [
+    "settle"
+  ],
+  "paper": "leave [TBD]"
+}

@@ -1,0 +1,14 @@
+{
+  "family_id": "0925",
+  "parent_task": "4000-0925-case",
+  "files": [
+    "DepositVault.sol"
+  ],
+  "contracts": [
+    "DepositVault"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

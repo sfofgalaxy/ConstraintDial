@@ -1,0 +1,14 @@
+{
+  "family_id": "0381",
+  "parent_task": "4000-0381-case",
+  "files": [
+    "MeridianToken.sol"
+  ],
+  "contracts": [
+    "MeridianToken"
+  ],
+  "functions": [
+    "reconcileReserveWindow"
+  ],
+  "paper": "leave [TBD]"
+}

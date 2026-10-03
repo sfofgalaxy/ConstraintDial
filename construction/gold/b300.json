@@ -1,0 +1,14 @@
+{
+  "family_id": "b300",
+  "parent_task": "4000-b300-case",
+  "files": [
+    "SettlementVault.sol"
+  ],
+  "contracts": [
+    "SettlementVault"
+  ],
+  "functions": [
+    "settle"
+  ],
+  "paper": "leave [TBD]"
+}

@@ -1,0 +1,15 @@
+{
+  "family_id": "0086",
+  "parent_task": "4000-0086-case",
+  "files": [
+    "LedgerVault.sol"
+  ],
+  "contracts": [
+    "LedgerVault"
+  ],
+  "functions": [
+    "setLogicAndRun"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

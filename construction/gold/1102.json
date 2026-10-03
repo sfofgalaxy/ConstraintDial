@@ -1,0 +1,14 @@
+{
+  "family_id": "1102",
+  "parent_task": "4000-1102-case",
+  "files": [
+    "UnitVault.sol"
+  ],
+  "contracts": [
+    "UnitVault"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

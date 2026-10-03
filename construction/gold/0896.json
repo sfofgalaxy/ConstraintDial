@@ -1,0 +1,14 @@
+{
+  "family_id": "0896",
+  "parent_task": "4000-0896-case",
+  "files": [
+    "DrawingHub.sol"
+  ],
+  "contracts": [
+    "DrawingHub"
+  ],
+  "functions": [
+    "claim"
+  ],
+  "paper": "leave [TBD]"
+}

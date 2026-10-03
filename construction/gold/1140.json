@@ -1,0 +1,14 @@
+{
+  "family_id": "1140",
+  "parent_task": "4000-1140-case",
+  "files": [
+    "RewardDistributor.sol"
+  ],
+  "contracts": [
+    "RewardDistributor"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

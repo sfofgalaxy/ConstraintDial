@@ -1,0 +1,15 @@
+{
+  "family_id": "0033",
+  "parent_task": "4000-0033-case",
+  "files": [
+    "RiskEngine.sol"
+  ],
+  "contracts": [
+    "RiskEngine"
+  ],
+  "functions": [
+    "borrowAllowed"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

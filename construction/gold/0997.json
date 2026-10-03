@@ -1,0 +1,14 @@
+{
+  "family_id": "0997",
+  "parent_task": "4000-0997-case",
+  "files": ["WrappedShareToken.sol"],
+  "contracts": ["WrappedShareToken"],
+  "functions": ["redeem"],
+  "compile": {
+    "files": ["WrappedShareToken.sol"],
+    "wanted": ["WrappedShareToken"],
+    "artifact": "WrappedShareToken.json"
+  },
+  "honest": "0997_roundtrip",
+  "paper": "leave [TBD]"
+}

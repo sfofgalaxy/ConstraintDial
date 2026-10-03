@@ -1,0 +1,14 @@
+{
+  "family_id": "0644",
+  "parent_task": "4000-0644-case",
+  "files": [
+    "FundingPool.sol"
+  ],
+  "contracts": [
+    "FundingPool"
+  ],
+  "functions": [
+    "flashLoanSimple"
+  ],
+  "paper": "leave [TBD]"
+}

@@ -1,0 +1,15 @@
+{
+  "family_id": "0031",
+  "parent_task": "4000-0031-case",
+  "files": [
+    "AurumToken.sol"
+  ],
+  "contracts": [
+    "AurumToken"
+  ],
+  "functions": [
+    "_settle"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

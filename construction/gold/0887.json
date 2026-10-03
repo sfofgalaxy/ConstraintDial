@@ -1,0 +1,14 @@
+{
+  "family_id": "0887",
+  "parent_task": "4000-0887-case",
+  "files": [
+    "PerpetualMarket.sol"
+  ],
+  "contracts": [
+    "PerpetualMarket"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

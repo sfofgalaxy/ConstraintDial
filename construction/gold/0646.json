@@ -1,0 +1,14 @@
+{
+  "family_id": "0646",
+  "parent_task": "4000-0646-case",
+  "files": [
+    "MoneyMarket.sol"
+  ],
+  "contracts": [
+    "MoneyMarket"
+  ],
+  "functions": [
+    "flashLoan"
+  ],
+  "paper": "leave [TBD]"
+}

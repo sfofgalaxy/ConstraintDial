@@ -1,0 +1,14 @@
+{
+  "family_id": "0916",
+  "parent_task": "4000-0916-case",
+  "files": [
+    "StakingVault.sol"
+  ],
+  "contracts": [
+    "StakingVault"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

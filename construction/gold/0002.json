@@ -1,0 +1,15 @@
+{
+  "family_id": "0002",
+  "parent_task": "4000-0002-case",
+  "files": [
+    "FeedChain.sol"
+  ],
+  "contracts": [
+    "FeedChain"
+  ],
+  "functions": [
+    "submit"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

@@ -1,0 +1,16 @@
+{
+  "family_id": "0176",
+  "parent_task": "4000-0176-case",
+  "files": [
+    "SaleToken.sol"
+  ],
+  "contracts": [
+    "SaleToken"
+  ],
+  "functions": [
+    "advanceCycle",
+    "sellFrom"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

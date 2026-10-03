@@ -1,0 +1,15 @@
+{
+  "family_id": "0009",
+  "parent_task": "4000-0009-case",
+  "files": [
+    "Inbox.sol"
+  ],
+  "contracts": [
+    "Inbox"
+  ],
+  "functions": [
+    "submit"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

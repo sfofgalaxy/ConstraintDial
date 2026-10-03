@@ -1,0 +1,14 @@
+{
+  "family_id": "0912",
+  "parent_task": "4000-0912-case",
+  "files": [
+    "PegIssuer.sol"
+  ],
+  "contracts": [
+    "PegIssuer"
+  ],
+  "functions": [
+    "redeem"
+  ],
+  "paper": "leave [TBD]"
+}

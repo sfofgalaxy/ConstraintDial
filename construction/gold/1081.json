@@ -1,0 +1,14 @@
+{
+  "family_id": "1081",
+  "parent_task": "4000-1081-case",
+  "files": ["SavingsVault.sol"],
+  "contracts": ["SavingsVault"],
+  "functions": ["redeem"],
+  "compile": {
+    "files": ["SavingsVault.sol"],
+    "wanted": ["SavingsVault"],
+    "artifact": "SavingsVault.json"
+  },
+  "honest": "1081_once",
+  "paper": "leave [TBD]"
+}

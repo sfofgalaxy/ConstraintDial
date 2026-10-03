@@ -1,0 +1,15 @@
+{
+  "family_id": "0020",
+  "parent_task": "4000-0020-case",
+  "files": [
+    "SettlementTeller.sol"
+  ],
+  "contracts": [
+    "SettlementTeller"
+  ],
+  "functions": [
+    "claim"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

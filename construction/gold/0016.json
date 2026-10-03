@@ -1,0 +1,15 @@
+{
+  "family_id": "0016",
+  "parent_task": "4000-0016-case",
+  "files": [
+    "LeverVault.sol"
+  ],
+  "contracts": [
+    "LeverVault"
+  ],
+  "functions": [
+    "receiveFlashLoan"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

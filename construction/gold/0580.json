@@ -1,0 +1,14 @@
+{
+  "family_id": "0580",
+  "parent_task": "4000-0580-case",
+  "files": [
+    "SwapPair.sol"
+  ],
+  "contracts": [
+    "SwapPair"
+  ],
+  "functions": [
+    "swap"
+  ],
+  "paper": "leave [TBD]"
+}

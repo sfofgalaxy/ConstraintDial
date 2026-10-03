@@ -1,0 +1,14 @@
+{
+  "family_id": "1062",
+  "parent_task": "4000-1062-case",
+  "files": [
+    "PayoutVault.sol"
+  ],
+  "contracts": [
+    "PayoutVault"
+  ],
+  "functions": [
+    "withdraw"
+  ],
+  "paper": "leave [TBD]"
+}

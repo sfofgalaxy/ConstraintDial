@@ -1,0 +1,19 @@
+{
+  "family_id": "0248",
+  "parent_task": "4000-0248-case",
+  "files": [
+    "InstrumentPool.sol",
+    "VaultRouter.sol"
+  ],
+  "contracts": [
+    "InstrumentPool",
+    "VaultRouter"
+  ],
+  "functions": [
+    "beforeSwap",
+    "redeemInstruments",
+    "registerModule"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

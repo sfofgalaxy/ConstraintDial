@@ -1,0 +1,14 @@
+{
+  "family_id": "0107",
+  "parent_task": "4000-0107-case",
+  "files": [
+    "FlashVault.sol"
+  ],
+  "contracts": [
+    "FlashVault"
+  ],
+  "functions": [
+    "flashLoan"
+  ],
+  "paper": "leave [TBD]"
+}

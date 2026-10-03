@@ -1,0 +1,14 @@
+{
+  "family_id": "1056",
+  "parent_task": "4000-1056-case",
+  "files": ["SettlementRouter.sol"],
+  "contracts": ["SettlementRouter"],
+  "functions": ["redeem"],
+  "compile": {
+    "files": ["SettlementRouter.sol"],
+    "wanted": ["SettlementRouter"],
+    "artifact": "SettlementRouter.json"
+  },
+  "honest": "1056_self",
+  "paper": "leave [TBD]"
+}

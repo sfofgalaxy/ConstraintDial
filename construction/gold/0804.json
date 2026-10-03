@@ -1,0 +1,14 @@
+{
+  "family_id": "0804",
+  "parent_task": "4000-0804-case",
+  "files": ["StakingVault.sol"],
+  "contracts": ["StakingVault"],
+  "functions": ["deposit"],
+  "compile": {
+    "files": ["StakingVault.sol"],
+    "wanted": ["StakingVault"],
+    "artifact": "StakingVault.json"
+  },
+  "honest": "0804_eq",
+  "paper": "leave [TBD]"
+}

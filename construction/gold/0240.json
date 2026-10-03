@@ -1,0 +1,15 @@
+{
+  "family_id": "0240",
+  "parent_task": "4000-0240-case",
+  "files": [
+    "FlashCreditPool.sol"
+  ],
+  "contracts": [
+    "FlashCreditPool"
+  ],
+  "functions": [
+    "flash"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

@@ -1,0 +1,14 @@
+{
+  "family_id": "0660",
+  "parent_task": "4000-0660-case",
+  "files": [
+    "AmmPair.sol"
+  ],
+  "contracts": [
+    "AmmPair"
+  ],
+  "functions": [
+    "swap"
+  ],
+  "paper": "leave [TBD]"
+}

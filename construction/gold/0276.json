@@ -1,0 +1,18 @@
+{
+  "family_id": "0276",
+  "parent_task": "4000-0276-case",
+  "files": [
+    "ConcentratedPool.sol",
+    "BidBoard.sol"
+  ],
+  "contracts": [
+    "ConcentratedPool",
+    "BidBoard"
+  ],
+  "functions": [
+    "swap",
+    "bidCount"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

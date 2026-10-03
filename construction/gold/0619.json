@@ -1,0 +1,14 @@
+{
+  "family_id": "0619",
+  "parent_task": "4000-0619-case",
+  "files": [
+    "LiquidityVenue.sol"
+  ],
+  "contracts": [
+    "LiquidityVenue"
+  ],
+  "functions": [
+    "flashLoan"
+  ],
+  "paper": "leave [TBD]"
+}

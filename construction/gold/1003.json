@@ -1,0 +1,14 @@
+{
+  "family_id": "1003",
+  "parent_task": "4000-1003-case",
+  "files": [
+    "AmplifiedPool.sol"
+  ],
+  "contracts": [
+    "AmplifiedPool"
+  ],
+  "functions": [
+    "swap"
+  ],
+  "paper": "leave [TBD]"
+}

@@ -1,0 +1,14 @@
+{
+  "family_id": "0828",
+  "parent_task": "4000-0828-case",
+  "files": [
+    "ReceiptVault.sol"
+  ],
+  "contracts": [
+    "ReceiptVault"
+  ],
+  "functions": [
+    "deposit"
+  ],
+  "paper": "leave [TBD]"
+}

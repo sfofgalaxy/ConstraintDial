@@ -1,0 +1,19 @@
+{
+  "family_id": "0032",
+  "parent_task": "4000-0032-case",
+  "files": [
+    "ReporterRegistry.sol",
+    "PriceFeedAdapter.sol"
+  ],
+  "contracts": [
+    "ReporterRegistry",
+    "PriceFeedAdapter"
+  ],
+  "functions": [
+    "getNewValueCountbyQueryId",
+    "getPrice",
+    "borrow"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

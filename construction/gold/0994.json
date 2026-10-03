@@ -1,0 +1,14 @@
+{
+  "family_id": "0994",
+  "parent_task": "4000-0994-case",
+  "files": [
+    "CreditMarket.sol"
+  ],
+  "contracts": [
+    "CreditMarket"
+  ],
+  "functions": [
+    "borrow"
+  ],
+  "paper": "leave [TBD]"
+}

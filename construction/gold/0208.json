@@ -1,0 +1,19 @@
+{
+  "family_id": "0208",
+  "parent_task": "4000-0208-case",
+  "files": [
+    "FlashDesk.sol",
+    "LendingMarket.sol"
+  ],
+  "contracts": [
+    "FlashDesk",
+    "LendingMarket"
+  ],
+  "functions": [
+    "flashLoan",
+    "borrow",
+    "exchangeRate"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

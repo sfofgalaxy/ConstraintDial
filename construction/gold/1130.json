@@ -1,0 +1,14 @@
+{
+  "family_id": "1130",
+  "parent_task": "4000-1130-case",
+  "files": [
+    "SettlementPool.sol"
+  ],
+  "contracts": [
+    "SettlementPool"
+  ],
+  "functions": [
+    "redeem"
+  ],
+  "paper": "leave [TBD]"
+}

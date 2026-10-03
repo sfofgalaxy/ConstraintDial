@@ -1,0 +1,14 @@
+{
+  "family_id": "0625",
+  "parent_task": "4000-0625-case",
+  "files": [
+    "PegRedemptionModule.sol"
+  ],
+  "contracts": [
+    "PegRedemptionModule"
+  ],
+  "functions": [
+    "redeem"
+  ],
+  "paper": "leave [TBD]"
+}

@@ -1,0 +1,15 @@
+{
+  "family_id": "0025",
+  "parent_task": "4000-0025-case",
+  "files": [
+    "AuctionToken.sol"
+  ],
+  "contracts": [
+    "AuctionToken"
+  ],
+  "functions": [
+    "purchase"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

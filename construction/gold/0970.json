@@ -1,0 +1,14 @@
+{
+  "family_id": "0970",
+  "parent_task": "4000-0970-case",
+  "files": [
+    "SettlementAuction.sol"
+  ],
+  "contracts": [
+    "SettlementAuction"
+  ],
+  "functions": [
+    "settle"
+  ],
+  "paper": "leave [TBD]"
+}

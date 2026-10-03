@@ -1,0 +1,19 @@
+{
+  "family_id": "0158",
+  "parent_task": "4000-0158-case",
+  "files": [
+    "StakingVault.sol",
+    "Collectible.sol"
+  ],
+  "contracts": [
+    "StakingVault",
+    "Collectible"
+  ],
+  "functions": [
+    "reserve",
+    "fundReserve",
+    "release"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

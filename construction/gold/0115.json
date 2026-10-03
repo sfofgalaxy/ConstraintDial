@@ -1,0 +1,15 @@
+{
+  "family_id": "0115",
+  "parent_task": "4000-0115-case",
+  "files": [
+    "Amm.sol"
+  ],
+  "contracts": [
+    "AmmPool"
+  ],
+  "functions": [
+    "flash"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

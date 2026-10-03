@@ -1,0 +1,14 @@
+{
+  "family_id": "0552",
+  "parent_task": "4000-0552-case",
+  "files": [
+    "TreasuryDesk.sol"
+  ],
+  "contracts": [
+    "TreasuryDesk"
+  ],
+  "functions": [
+    "disperseNative"
+  ],
+  "paper": "leave [TBD]"
+}

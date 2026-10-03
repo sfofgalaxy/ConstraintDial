@@ -1,0 +1,14 @@
+{
+  "family_id": "0805",
+  "parent_task": "4000-0805-case",
+  "files": [
+    "ProposalModule.sol"
+  ],
+  "contracts": [
+    "ProposalModule"
+  ],
+  "functions": [
+    "execute"
+  ],
+  "paper": "leave [TBD]"
+}

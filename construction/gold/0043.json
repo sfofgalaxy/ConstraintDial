@@ -1,0 +1,15 @@
+{
+  "family_id": "0043",
+  "parent_task": "4000-0043-case",
+  "files": [
+    "MarketProtocol.sol"
+  ],
+  "contracts": [
+    "LiquidityVault"
+  ],
+  "functions": [
+    "flashLoan"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

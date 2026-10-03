@@ -1,0 +1,14 @@
+{
+  "family_id": "0667",
+  "parent_task": "4000-0667-case",
+  "files": [
+    "BridgeRouter.sol"
+  ],
+  "contracts": [
+    "BridgeRouter"
+  ],
+  "functions": [
+    "swap"
+  ],
+  "paper": "leave [TBD]"
+}

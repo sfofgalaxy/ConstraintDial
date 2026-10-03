@@ -1,0 +1,8 @@
+{
+  "family_id": "0317",
+  "parent_task": "4000-0317-case",
+  "files": ["LiquidityMarket.sol"],
+  "contracts": ["LiquidityMarket"],
+  "functions": ["flashLoan"],
+  "paper": "leave [TBD]"
+}

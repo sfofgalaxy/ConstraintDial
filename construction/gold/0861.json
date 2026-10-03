@@ -1,0 +1,14 @@
+{
+  "family_id": "0861",
+  "parent_task": "4000-0861-case",
+  "files": [
+    "ProposalGate.sol"
+  ],
+  "contracts": [
+    "ProposalGate"
+  ],
+  "functions": [
+    "execute"
+  ],
+  "paper": "leave [TBD]"
+}

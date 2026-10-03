@@ -1,0 +1,18 @@
+{
+  "family_id": "0092",
+  "parent_task": "4000-0092-case",
+  "files": [
+    "StakingPool.sol",
+    "RewardDistributor.sol"
+  ],
+  "contracts": [
+    "StakingPool",
+    "RewardDistributor"
+  ],
+  "functions": [
+    "epochInfo",
+    "distribute"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

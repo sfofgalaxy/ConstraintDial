@@ -1,0 +1,19 @@
+{
+  "family_id": "0277",
+  "parent_task": "4000-0277-case",
+  "files": [
+    "CallAggregator.sol",
+    "LedgerToken.sol"
+  ],
+  "contracts": [
+    "CallAggregator",
+    "LedgerToken"
+  ],
+  "functions": [
+    "aggregate3",
+    "transfer",
+    "approve"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

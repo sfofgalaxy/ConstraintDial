@@ -1,0 +1,15 @@
+{
+  "family_id": "0154",
+  "parent_task": "4000-0154-case",
+  "files": [
+    "BidArena.sol"
+  ],
+  "contracts": [
+    "BidArena"
+  ],
+  "functions": [
+    "placeBid"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

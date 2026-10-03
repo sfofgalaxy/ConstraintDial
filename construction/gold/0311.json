@@ -1,0 +1,8 @@
+{
+  "family_id": "0311",
+  "parent_task": "4000-0311-case",
+  "files": ["FlashPool.sol"],
+  "contracts": ["FlashPool"],
+  "functions": ["flash"],
+  "paper": "leave [TBD]"
+}

@@ -1,0 +1,14 @@
+{
+  "family_id": "1155",
+  "parent_task": "4000-1155-case",
+  "files": [
+    "ProviderPool.sol"
+  ],
+  "contracts": [
+    "ProviderPool"
+  ],
+  "functions": [
+    "deposit"
+  ],
+  "paper": "leave [TBD]"
+}

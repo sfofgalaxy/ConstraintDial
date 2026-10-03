@@ -1,0 +1,16 @@
+{
+  "family_id": "0019",
+  "parent_task": "4000-0019-case",
+  "files": [
+    "FlashLenders.sol"
+  ],
+  "contracts": [
+    "PrimaryFlashLender",
+    "SecondaryFlashLender"
+  ],
+  "functions": [
+    "flashLoan"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

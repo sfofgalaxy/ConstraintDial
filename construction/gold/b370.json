@@ -1,0 +1,14 @@
+{
+  "family_id": "b370",
+  "parent_task": "4000-b370-case",
+  "files": [
+    "SwapPool.sol"
+  ],
+  "contracts": [
+    "SwapPool"
+  ],
+  "functions": [
+    "swap"
+  ],
+  "paper": "leave [TBD]"
+}

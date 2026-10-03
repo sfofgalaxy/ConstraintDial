@@ -1,0 +1,15 @@
+{
+  "family_id": "0027",
+  "parent_task": "4000-0027-case",
+  "files": [
+    "EntryRouter.sol"
+  ],
+  "contracts": [
+    "EntryRouter"
+  ],
+  "functions": [
+    "convertAndDeposit"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

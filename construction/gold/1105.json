@@ -1,0 +1,14 @@
+{
+  "family_id": "1105",
+  "parent_task": "4000-1105-case",
+  "files": [
+    "Governor.sol"
+  ],
+  "contracts": [
+    "Governor"
+  ],
+  "functions": [
+    "execute"
+  ],
+  "paper": "leave [TBD]"
+}

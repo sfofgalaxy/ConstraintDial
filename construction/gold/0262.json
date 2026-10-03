@@ -1,0 +1,15 @@
+{
+  "family_id": "0262",
+  "parent_task": "4000-0262-case",
+  "files": [
+    "PositionRouter.sol"
+  ],
+  "contracts": [
+    "PositionRouter"
+  ],
+  "functions": [
+    "openPosition"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

@@ -1,0 +1,14 @@
+{
+  "family_id": "1015",
+  "parent_task": "4000-1015-case",
+  "files": [
+    "LendingVault.sol"
+  ],
+  "contracts": [
+    "LendingVault"
+  ],
+  "functions": [
+    "borrow"
+  ],
+  "paper": "leave [TBD]"
+}

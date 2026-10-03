@@ -1,0 +1,14 @@
+{
+  "family_id": "0988",
+  "parent_task": "4000-0988-case",
+  "files": [
+    "RevenueVault.sol"
+  ],
+  "contracts": [
+    "RevenueVault"
+  ],
+  "functions": [
+    "settle"
+  ],
+  "paper": "leave [TBD]"
+}

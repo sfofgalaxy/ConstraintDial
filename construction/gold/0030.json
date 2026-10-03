@@ -1,0 +1,15 @@
+{
+  "family_id": "0030",
+  "parent_task": "4000-0030-case",
+  "files": [
+    "RewardToken.sol"
+  ],
+  "contracts": [
+    "RewardToken"
+  ],
+  "functions": [
+    "forfeit"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

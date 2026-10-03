@@ -1,0 +1,14 @@
+{
+  "family_id": "1077",
+  "parent_task": "4000-1077-case",
+  "files": [
+    "StakingLedger.sol"
+  ],
+  "contracts": [
+    "StakingLedger"
+  ],
+  "functions": [
+    "redeem"
+  ],
+  "paper": "leave [TBD]"
+}

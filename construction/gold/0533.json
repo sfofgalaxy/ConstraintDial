@@ -1,0 +1,14 @@
+{
+  "family_id": "0533",
+  "parent_task": "4000-0533-case",
+  "files": [
+    "StakingProgram.sol"
+  ],
+  "contracts": [
+    "StakingProgram"
+  ],
+  "functions": [
+    "collect"
+  ],
+  "paper": "leave [TBD]"
+}

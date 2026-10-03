@@ -1,0 +1,14 @@
+{
+  "family_id": "0602",
+  "parent_task": "4000-0602-case",
+  "files": [
+    "LiquidityPool.sol"
+  ],
+  "contracts": [
+    "LiquidityPool"
+  ],
+  "functions": [
+    "flashLoanSimple"
+  ],
+  "paper": "leave [TBD]"
+}

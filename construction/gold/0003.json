@@ -1,0 +1,15 @@
+{
+  "family_id": "0003",
+  "parent_task": "4000-0003-case",
+  "files": [
+    "OrderVault.sol"
+  ],
+  "contracts": [
+    "OrderVault"
+  ],
+  "functions": [
+    "_open"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

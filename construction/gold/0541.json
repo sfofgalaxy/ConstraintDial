@@ -1,0 +1,14 @@
+{
+  "family_id": "0541",
+  "parent_task": "4000-0541-case",
+  "files": [
+    "ConcentratedPool.sol"
+  ],
+  "contracts": [
+    "ConcentratedPool"
+  ],
+  "functions": [
+    "flash"
+  ],
+  "paper": "leave [TBD]"
+}

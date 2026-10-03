@@ -1,0 +1,14 @@
+{
+  "family_id": "0235",
+  "parent_task": "4000-0235-case",
+  "files": ["LiquidityPool.sol"],
+  "contracts": ["LiquidityPool"],
+  "functions": ["redeemUnhedged"],
+  "compile": {
+    "files": ["CollateralToken.sol", "LiquidityPool.sol"],
+    "wanted": ["LiquidityPool"],
+    "artifact": "LiquidityPool.json"
+  },
+  "honest": "0235_once",
+  "paper": "leave [TBD]"
+}

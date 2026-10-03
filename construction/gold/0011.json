@@ -1,0 +1,15 @@
+{
+  "family_id": "0011",
+  "parent_task": "4000-0011-case",
+  "files": [
+    "EarningVault.sol"
+  ],
+  "contracts": [
+    "EarningVault"
+  ],
+  "functions": [
+    "_payout"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

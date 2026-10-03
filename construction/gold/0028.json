@@ -1,0 +1,15 @@
+{
+  "family_id": "0028",
+  "parent_task": "4000-0028-case",
+  "files": [
+    "DividendToken.sol"
+  ],
+  "contracts": [
+    "DividendToken"
+  ],
+  "functions": [
+    "_transfer"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

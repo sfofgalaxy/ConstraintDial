@@ -1,0 +1,14 @@
+{
+  "family_id": "0437",
+  "parent_task": "4000-0437-case",
+  "files": [
+    "RangePool.sol"
+  ],
+  "contracts": [
+    "RangePool"
+  ],
+  "functions": [
+    "flash"
+  ],
+  "paper": "leave [TBD]"
+}

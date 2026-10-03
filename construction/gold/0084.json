@@ -1,0 +1,18 @@
+{
+  "family_id": "0084",
+  "parent_task": "4000-0084-case",
+  "files": [
+    "AmmPair.sol",
+    "TransferFeeToken.sol"
+  ],
+  "contracts": [
+    "AmmPair",
+    "TransferFeeToken"
+  ],
+  "functions": [
+    "swap",
+    "_move"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}

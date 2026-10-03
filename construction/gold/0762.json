@@ -1,0 +1,14 @@
+{
+  "family_id": "0762",
+  "parent_task": "4000-0762-case",
+  "files": [
+    "RewardDistributor.sol"
+  ],
+  "contracts": [
+    "RewardDistributor"
+  ],
+  "functions": [
+    "settle"
+  ],
+  "paper": "leave [TBD]"
+}

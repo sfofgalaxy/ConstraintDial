@@ -1,0 +1,14 @@
+{
+  "family_id": "1018",
+  "parent_task": "4000-1018-case",
+  "files": [
+    "SwapRouter.sol"
+  ],
+  "contracts": [
+    "SwapRouter"
+  ],
+  "functions": [
+    "swap"
+  ],
+  "paper": "leave [TBD]"
+}

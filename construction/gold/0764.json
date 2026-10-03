@@ -1,0 +1,14 @@
+{
+  "family_id": "0764",
+  "parent_task": "4000-0764-case",
+  "files": [
+    "CreditDesk.sol"
+  ],
+  "contracts": [
+    "CreditDesk"
+  ],
+  "functions": [
+    "flashLoan"
+  ],
+  "paper": "leave [TBD]"
+}

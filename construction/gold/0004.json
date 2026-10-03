@@ -1,0 +1,15 @@
+{
+  "family_id": "0004",
+  "parent_task": "4000-0004-case",
+  "files": [
+    "Governance.sol"
+  ],
+  "contracts": [
+    "Governance"
+  ],
+  "functions": [
+    "evaluateProposalOutcome"
+  ],
+  "recovered": true,
+  "paper": "leave [TBD]"
+}
