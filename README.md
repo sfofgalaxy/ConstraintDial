@@ -1,23 +1,26 @@
 # ConstraintDial
 
-两个文件夹并排放着，不要改名字，也不要改层级：
-
 ```text
-huggingface/
-ConstraintDial/
+construction/    build Detect and Patch tasks
+benchmark/       run one task from a local Hugging Face dataset checkout
 ```
 
-`huggingface` 是要上传的题目。链也在里面，`run.sh` 会自己找到，不用填地址。
+Copy `.env.example` to `.env`. Paths are left empty.
 
-| 东西 | 路径 |
-| --- | --- |
-| 题目 | `huggingface/tasks/<题目名>/` |
-| 链 | `huggingface/infra/revm_node.py` |
-| 依赖 | `huggingface/vendor/` |
-| 清单 | `huggingface/task_manifest.csv` |
-| 构造代码 | `ConstraintDial/construction/` |
+## Benchmark
 
-构造代码从 `ConstraintDial/.env` 读取路径和接口，不写在源码里。把 `.env.example` 复制成 `.env` 后填写：
+`HF_DATASET_DIR` is the local dataset directory. It is expected to contain `tasks/`, `infra/revm_node.py`, and `vendor/`.
+
+```bash
+bash benchmark/run.sh 4000-0001-case
+bash benchmark/run.sh 4000-0001-case judge
+```
+
+Run the two commands in separate terminals. The default endpoint is `http://127.0.0.1:8545`. Override it with `PORT` and `RPC_URL`.
+
+Python 3.10 is required. `vendor/` supplies the Linux CPython 3.10 build of `pyrevm`.
+
+## Construction
 
 ```text
 CONSTRAINDIAL_REPO=
@@ -26,32 +29,9 @@ CONSTRAINDIAL_API_KEY=
 CONSTRAINDIAL_MODEL=
 ```
 
-`.env` 只留在本机，不要放进 `huggingface`。`CONSTRAINDIAL_REPO` 下面要有 `experiments/lifelong-pilot/` 和 `tools/bin/solc`。
+`CONSTRAINDIAL_REPO` must contain `experiments/lifelong-pilot/` and `tools/bin/solc`. Gold labels are in `construction/gold/`. Built tasks are written into that repository.
 
 ```bash
-python3 ConstraintDial/construction/build_dep_versions.py
-python3 ConstraintDial/construction/construct_missing_patches.py
+python3 construction/build_dep_versions.py
+python3 construction/construct_missing_patches.py
 ```
-
-`construction/gold/` 是 Detect / Patch 的标注。造出来的题目写回该仓库的题目树，不写进 `huggingface`。
-
-在这两个文件夹的上一层执行：
-
-```bash
-bash ConstraintDial/run.sh 4000-0001-case
-```
-
-链起来之后，另开一个终端：
-
-```bash
-bash ConstraintDial/run.sh 4000-0001-case judge
-```
-
-默认端口 `8545`。换端口：
-
-```bash
-PORT=18545 bash ConstraintDial/run.sh 4000-0001-case
-RPC_URL=http://127.0.0.1:18545 bash ConstraintDial/run.sh 4000-0001-case judge
-```
-
-本机需要 `/usr/bin/python3.10`。`vendor` 里的 pyrevm 是 Linux 上的 Python 3.10 扩展。
