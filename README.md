@@ -1,5 +1,7 @@
 # ConstraintDial
 
+Dataset: https://huggingface.co/datasets/Ziffer/constraintdial
+
 ```text
 construction/    build Detect and Patch tasks
 benchmark/       run one task from a local Hugging Face dataset checkout
