@@ -2,6 +2,8 @@
 
 Dataset: https://huggingface.co/datasets/Ziffer/constraintdial
 
+License: Apache-2.0 (see `LICENSE`).
+
 ```text
 construction/    build Detect and Patch tasks
 benchmark/       run one task from a local Hugging Face dataset checkout
